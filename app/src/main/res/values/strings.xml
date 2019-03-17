@@ -4,4 +4,6 @@
     <string name="locations">Locations</string>
     <string name="friends">Friends</string>
     <string name="recycle">Recycle</string>
+    <string name="signin">or continue without signing in</string>
+    <string name="snap_picture">clickable signin</string>
 </resources>
